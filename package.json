@@ -1,5 +1,5 @@
 {
-  "name": "react-native-simple-picker",
+  "name": "react-native-simple-picker-b",
   "version": "1.4.3",
   "description": "A simple iOS picker for React Native",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puredazzle/react-native-simple-picker.git"
+    "url": "git+https://github.com/corupta/react-native-simple-picker.git"
   },
   "keywords": [
     "React-Native",
@@ -21,9 +21,9 @@
     "index.js"
   ],
   "bugs": {
-    "url": "https://github.com/puredazzle/react-native-simple-picker/issues"
+    "url": "https://github.com/corupta/react-native-simple-picker/issues"
   },
-  "homepage": "https://github.com/puredazzle/react-native-simple-picker#readme",
+  "homepage": "https://github.com/corupta/react-native-simple-picker#readme",
   "devDependencies": {
     "eslint": "^2.7.0",
     "eslint-config-airbnb": "^6.2.0",
