@@ -11,7 +11,7 @@ A simple iOS picker for React Native.
 ## Install
 
 ```
-$ npm install react-native-simple-picker --save
+$ npm install react-native-simple-picker-b --save
 ```
 
 ## Example
